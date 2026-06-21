@@ -25,6 +25,10 @@ stack is worth.
 - **🎨 Theme switcher** — 5 dark themes (Toxic, Midnight, Obsidian, Abyss, Ember). Defaults to
   **Toxic** — its dark green gradient complements the green Start button while keeping the same
   low-light feel.
+- **🔤 Font selector** *(fork-only)* — 6 overlay fonts including **Fontin SmallCaps** (PoE's official
+  font), Angie SmallCaps, IBM Plex Mono, Consolas, Georgia, and Palatino Linotype. Defaults to
+  **Fontin SmallCaps** for an authentic PoE look. Font changes apply live without restarting.
+  *(Bundled fonts are for personal use only — not in the upstream release for licensing reasons.)*
 
 ## Download & run
 

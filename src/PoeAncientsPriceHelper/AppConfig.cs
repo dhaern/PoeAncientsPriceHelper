@@ -29,6 +29,9 @@ internal sealed class AppConfig
     public string CaptureBackend { get; set; } = "Auto";
     // UI theme preset name. Default "Toxic" (dark green gradient).
     public string Theme { get; set; } = "Toxic";
+    // Overlay font family name. Default "Fontin SmallCaps" (PoE official font).
+    // Fork-only: bundled fonts are NOT redistributable in the upstream release zip.
+    public string OverlayFont { get; set; } = "Fontin SmallCaps";
 
     public Rectangle RegionRect
     {
